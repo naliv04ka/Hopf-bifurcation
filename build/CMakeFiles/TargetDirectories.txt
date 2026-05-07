@@ -1,0 +1,3 @@
+/home/claude/cavity_flow/build/CMakeFiles/cavity_flow.dir
+/home/claude/cavity_flow/build/CMakeFiles/edit_cache.dir
+/home/claude/cavity_flow/build/CMakeFiles/rebuild_cache.dir

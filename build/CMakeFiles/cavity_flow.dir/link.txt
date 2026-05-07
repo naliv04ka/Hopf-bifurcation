@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -march=native -Wall -Wextra CMakeFiles/cavity_flow.dir/src/main.cpp.o CMakeFiles/cavity_flow.dir/src/grid.cpp.o CMakeFiles/cavity_flow.dir/src/field.cpp.o CMakeFiles/cavity_flow.dir/src/navier_stokes_pimple.cpp.o CMakeFiles/cavity_flow.dir/src/fft_analyzer.cpp.o CMakeFiles/cavity_flow.dir/src/post_processor.cpp.o -o cavity_flow  -lm 

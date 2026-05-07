@@ -1,0 +1,19 @@
+﻿  field.cpp
+C:\Users\pawly\source\repos\cavity_flow\src\field.h(21,43): warning C4267: return: преобразование из "size_t" в "Index"; возможна потеря данных
+  (компиляция исходного файла "src/field.cpp")
+  
+  fft_analyzer.cpp
+C:\Users\pawly\source\repos\cavity_flow\src\fft_analyzer.cpp(36,43): warning C4267: аргумент: преобразование из "size_t" в "Index"; возможна потеря данных
+C:\Users\pawly\source\repos\cavity_flow\src\fft_analyzer.cpp(91,13): warning C4267: инициализация: преобразование из "size_t" в "Index"; возможна потеря данных
+  grid.cpp
+  main.cpp
+C:\Users\pawly\source\repos\cavity_flow\src\field.h(21,43): warning C4267: return: преобразование из "size_t" в "Index"; возможна потеря данных
+  (компиляция исходного файла "src/main.cpp")
+  
+  pimple_solver.cpp
+  post_processor.cpp
+C:\Users\pawly\source\repos\cavity_flow\src\field.h(21,43): warning C4267: return: преобразование из "size_t" в "Index"; возможна потеря данных
+  (компиляция исходного файла "src/post_processor.cpp")
+  
+  Создание кода...
+  cavity_flow.vcxproj -> C:\Users\pawly\source\repos\cavity_flow\bin\Debug\cavity_flow.exe
